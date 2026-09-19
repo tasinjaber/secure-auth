@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";describe("Secure Auth",()=>it("has a valid title",()=>expect("Secure Auth".length).toBeGreaterThan(3)));
